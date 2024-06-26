@@ -1,0 +1,14 @@
+debug/chooselevelsence.o
+debug/dataconfig.o
+debug/main.o
+debug/mainscene.o
+debug/mybutton.o
+debug/mycoin.o
+debug/playscene.o
+debug/qrc_res.o
+debug/moc_chooselevelsence.o
+debug/moc_dataconfig.o
+debug/moc_mainscene.o
+debug/moc_mybutton.o
+debug/moc_mycoin.o
+debug/moc_playscene.o
